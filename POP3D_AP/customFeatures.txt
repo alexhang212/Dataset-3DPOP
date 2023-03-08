@@ -1,0 +1,9 @@
+hd_beak
+hd_nose
+hd_leftEye
+hd_rightEye
+bp_leftShoulder
+bp_rightShoulder
+bp_topKeel
+bp_bottomKeel
+bp_tail
