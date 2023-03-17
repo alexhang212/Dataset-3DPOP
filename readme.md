@@ -13,7 +13,7 @@ The 3DPOP dataset is a large scale 2D to 3D posture, identity and trajectory dat
 ## Dataset and 3D POP Reader
 This repository includes the 3DPOP reader class, for reading the dataset. Click [here](./Examples/Dataset_Example.ipynb) for an example of the functions provided with the dataset reader. For better customization options for the user, we also provide a detailed breakdown of the dataset structure [here](./Examples/Dataset%20Structure.ipynb).
 
-To get started, download the dataset [here](LINK) and paste it into the 'Dataset' directory, or a directory of your choice. 
+To get started, download the dataset [here](https://edmond.mpdl.mpg.de/dataset.xhtml?persistentId=doi:10.17617/3.HPBBC7) and paste it into the 'Dataset' directory, or a directory of your choice. 
 
 Install the conda environment for required dependencies:
 

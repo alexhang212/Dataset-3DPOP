@@ -59,7 +59,7 @@ def main(DatasetDir,SequenceNum):
 if __name__ == "__main__":
     
     ##Default:
-    DatasetDir = "/media/alexchan/My Passport/Pop3D-Dataset_Final/" #put path to dataset here
+    DatasetDir = "/media/alexchan/My Passport/Dataset_3DPOP/" #put path to dataset here
     SequenceNum = 1
 
     main(DatasetDir, SequenceNum)
