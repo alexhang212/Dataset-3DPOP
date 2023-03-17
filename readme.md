@@ -15,7 +15,7 @@ This repository includes the 3DPOP reader class, for reading the dataset. Click 
 
 To get started, download the dataset [here](https://edmond.mpdl.mpg.de/dataset.xhtml?persistentId=doi:10.17617/3.HPBBC7) and paste it into the 'Dataset' directory, or a directory of your choice. 
 
-Install the conda environment for required dependencies:
+To install all required dependencies, first [install anaconda] (https://docs.anaconda.com/anaconda/install/index.html) then create an environment:
 
 ```
 conda env create --file=environment.yml
