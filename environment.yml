@@ -1,6 +1,8 @@
 name: 3DPOP
 channels:
   - defaults
+  - conda-forge
+  - esri
 dependencies:
   - python=3.10.4
   - pandas
