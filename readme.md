@@ -39,6 +39,15 @@ https://user-images.githubusercontent.com/57260510/223777471-2289b18d-15eb-4a82-
 
 Refer to publication for more details....
 # Citation
+@InProceedings{Naik_2023_CVPR,
+    author    = {Naik, Hemal and Chan, Alex Hoi Hang and Yang, Junran and Delacoux, Mathilde and Couzin, Iain D. and Kano, Fumihiro and Nagy, M\'at\'e},
+    title     = {3D-POP - An Automated Annotation Approach to Facilitate Markerless 2D-3D Tracking of Freely Moving Birds With Marker-Based Motion Capture},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2023},
+    pages     = {21274-21284}
+}
+
 
 # Acknowledgements
 Funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany’s Excellence Strategy – EXC 2117 – 422037984
