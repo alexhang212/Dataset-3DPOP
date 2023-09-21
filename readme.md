@@ -1,7 +1,7 @@
 # 3DPOP: 3D Posture of Pigeons Dataset
 ![Banner](./Media/3DPOP_Banner.png)
 
-This is the repository for the publication: 3D-POP - An automated annotation approach to facilitate markerless 2D-3D tracking of freely moving birds with marker-based motion capture
+This is the repository for the publication: [3D-POP - An automated annotation approach to facilitate markerless 2D-3D tracking of freely moving birds with marker-based motion capture](https://openaccess.thecvf.com/content/CVPR2023/html/Naik_3D-POP_-_An_Automated_Annotation_Approach_to_Facilitate_Markerless_2D-3D_CVPR_2023_paper.html)
 
 **Hemal Naik\***, **Alex Hoi Hang Chan\***, Junran Yang, Mathilde Delacoux, Iain D Couzin, Fumihiro Kano, Mate Nagy
 
