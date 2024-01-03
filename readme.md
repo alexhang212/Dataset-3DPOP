@@ -7,6 +7,12 @@ This is the repository for the publication: 3D-POP - An automated annotation app
 
 Centre for the Advanced Study of Collective Behaviour, Universtiy of Konstanz, Germany
 
+## News
+- **03/01/2024:** New benchmarking dataset of 6036 sampled images updated on the data repository. See [paper](https://arxiv.org/abs/2308.15316) and [project page](https://alexhang212.github.io/3D-MuPPET/) for more details on benchmarking dataset and results. We also added an image reader class to read the new image dataset, click [here](./Examples/ImageDataset_Example.ipynb) for guidance.
+
+
+
+
 ## Dataset
 The 3DPOP dataset is a large scale 2D to 3D posture, identity and trajectory dataset for freely moving pigeons. We use marker-based motion tracking to first track precise head and body position and orientation for multiple individuals, then propagated custom keypoints based on the relative positions of markers and keypoints. 
 
